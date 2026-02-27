@@ -17,7 +17,7 @@
 
     <EditText
         android:id="@+id/etName"
-        android:hint="ชื่อรายการ"
+        android:hint="ชื่อรายการ : "
         android:layout_width="match_parent"
         android:layout_height="50dp"
         android:background="@android:drawable/edit_text"
